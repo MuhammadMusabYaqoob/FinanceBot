@@ -30,7 +30,7 @@ This workflow automates financial document processing using **n8n**, **LangChain
 ## 🎥 Demo Video
 
 <p align="center">
-  <video src="demo.mp4" width="700" controls></video>
+  <video src="bot.mp4" width="700" controls></video>
 </p>
 
 <p align="center">
