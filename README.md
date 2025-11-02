@@ -72,8 +72,7 @@ This workflow automates financial document processing using **n8n**, **LangChain
 
 ## 🧑‍💻 Author
 
-**Muhammad Musab**  
-AI Engineer Intern @ Solutyics  
+**Muhammad Musab**   
 🌐 [GitHub Profile](https://github.com/muhammadmusabyaqoob)
 
 ---
