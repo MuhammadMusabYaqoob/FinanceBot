@@ -34,7 +34,7 @@ This workflow automates financial document processing using **n8n**, **LangChain
 </p>
 
 <p align="center">
-  ▶️ <a href="https://github.com/muhammadmusabyaqoob/FinanceBot-n8n/blob/main/demo.mp4?raw=true">Click here to view the video</a>
+  ▶️ <a href="https://github.com/muhammadmusabyaqoob/FinanceBot-n8n/blob/main/bot.mp4?raw=true">Click here to view the video</a>
 </p>
 
 ---
